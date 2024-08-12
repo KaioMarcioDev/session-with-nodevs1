@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    display: grid;
+    place-content: center;
+}
+.container{
+    display: flex;
+    border: 1px solid ;
+}
+input, button{
+    display: block;
+    margin: 10px 5px;
+    width: 100%;
+
+}
